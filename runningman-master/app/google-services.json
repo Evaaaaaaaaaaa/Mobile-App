@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929323258590",
+    "firebase_url": "https://mobiledemo-1700d.firebaseio.com",
+    "project_id": "mobiledemo-1700d",
+    "storage_bucket": "mobiledemo-1700d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929323258590:android:83901bbe4423ef8542a84f",
+        "android_client_info": {
+          "package_name": "com.example.runningman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929323258590-2danavscts83bmuu7q26qd66ct46n7kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZqruT6oBESlCpTBwC_SNvctOrGw4lt-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929323258590-2danavscts83bmuu7q26qd66ct46n7kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
